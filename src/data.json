@@ -22,5 +22,29 @@
     "price": 5.5,
     "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum iusto totam odit quod laborum",
     "src": "https://bakewithzoha.com/wp-content/uploads/2024/01/tiramisu-featured.jpg"
+  },
+  {
+    "title": "Waffle with Berries",
+    "price": 6.5,
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum iusto totam odit quod laborum",
+    "src": "https://freshberries.com.au/wp-content/uploads/2021/04/waffles-1.png"
+  },
+  {
+    "title": "Vanilla Bean Crème Brûlée",
+    "price": 7,
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum iusto totam odit quod laborum",
+    "src": "https://www.vanillabeancuisine.com/wp-content/uploads/2023/09/Creme-Brulee-21-720x720.jpg"
+  },
+  {
+    "title": "Macaron Mix of Five",
+    "price": 8,
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum iusto totam odit quod laborum",
+    "src": "https://thekatetin.com/wp-content/uploads/2018/04/Macarons.jpg"
+  },
+  {
+    "title": "Classic Tiramisu",
+    "price": 5.5,
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum iusto totam odit quod laborum",
+    "src": "https://bakewithzoha.com/wp-content/uploads/2024/01/tiramisu-featured.jpg"
   }
 ]

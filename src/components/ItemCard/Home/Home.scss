@@ -1,0 +1,21 @@
+@import "../../../styles.scss";
+
+.home-tab-container {
+    padding-inline: 10em;
+    height: 100vh;
+    text-align: center;
+
+    .sub-heading {
+        font-size: clamp(3rem, calc(1.375rem + 1.5vw), 4rem);
+    }
+
+    .hero {
+        font-size: clamp(3rem, calc(5rem + 1.5vw), 10rem);
+        color: $pink;
+    }
+
+    .menu-btn {
+        margin-inline: auto;
+        padding-inline: 2em;
+    }
+}

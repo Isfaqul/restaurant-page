@@ -1,4 +1,4 @@
-@import "../styles";
+@import "../../styles.scss";
 
 /* Item Card Styles */
 .item-card {
@@ -50,4 +50,11 @@
         font-weight: 600;
         border: 1px solid $pink-border;
     }
+}
+
+.items-container {
+    padding-inline: 10em;
+    display: grid;
+    gap: 2em;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }

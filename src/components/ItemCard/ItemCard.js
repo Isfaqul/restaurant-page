@@ -28,3 +28,10 @@ export default function ItemCard(item) {
 
   return card;
 }
+
+export function ItemGrid() {
+  const itemsContainer = document.createElement("div");
+  itemsContainer.classList.add("items-container");
+
+  return itemsContainer;
+}
